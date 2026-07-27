@@ -1,0 +1,9 @@
+[
+  { "id": "summit", "name": "Summit", "image": "./images/maps/summit.webp" },
+  { "id": "sunset", "name": "Sunset", "image": "./images/maps/sunset.webp" },
+  { "id": "breeze", "name": "Breeze", "image": "./images/maps/breeze.webp" },
+  { "id": "haven", "name": "Haven", "image": "./images/maps/haven.webp" },
+  { "id": "lotus", "name": "Lotus", "image": "./images/maps/lotus.webp" },
+  { "id": "split", "name": "Split", "image": "./images/maps/split.webp" },
+  { "id": "ascent", "name": "Ascent", "image": "./images/maps/ascent.webp" }
+]
